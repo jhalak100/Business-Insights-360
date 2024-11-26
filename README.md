@@ -1,4 +1,3 @@
-
 # Business Insights 360
 
 # Project Overview
@@ -70,29 +69,6 @@ Recently, the company experienced an unexpected loss after opening a store in Am
 
 ---
 
-### Project Kick-Off Session  
-
-Before starting the project, it’s crucial to address key questions to ensure clarity about the purpose, scope, and expectations.  
-
-### Questions to Ask Before Starting the Dashboard:  
-
-1. **What is the objective of building this Power BI dashboard?**  
-2. **How will the success of this project be measured?**  
-3. **What is the timeline or deadline for this project?**  
-4. **Do stakeholders expect a preview before the final release?**  
-5. **What are the hopes stakeholders have for this project?**  
-6. **What concerns or fears do stakeholders have about building this dashboard?**  
-7. **Who will be using this dashboard, and for what purpose?**  
-8. **What specific expectations do stakeholders have for the completion of this project?**  
-9. **What potential challenges or risks could arise during the project?**  
-10. **What resources or data are required to build this dashboard?**  
-11. **Are there any inputs from stakeholders regarding the design or layout of the dashboard?**  
-
----
-
-### Next Steps  
-
-Following the project kick-off session, the **Data Engineering Team** provided the required datasets as requested by the **Data Analytics Team**. Let's dive into exploring and analyzing the data to build meaningful insights.  
 
 # Dataset Overview  
 
@@ -226,29 +202,40 @@ In the Home View, all the view buttons will be available. The user can navigate 
 - **Support**
 
 # Final Overview
+https://github.com/user-attachments/assets/d84611a2-c2fc-45d6-a4d4-f4bc6fbecb08
 
-https://github.com/user-attachments/assets/d58727e1-9737-49c6-b253-f1d24ff79dfa
 
-# Info Page
-![infopage](https://github.com/user-attachments/assets/29b25189-2b5f-4b07-b926-8955c10484cb)
 
 # Home Page 
+
 ![overall](https://github.com/user-attachments/assets/df21b75f-f60d-4785-b316-64aab20dc4b0)
 
+# Info Page
+
+![infopage](https://github.com/user-attachments/assets/29b25189-2b5f-4b07-b926-8955c10484cb)
+
 # Finance View
+
 ![Finance_view](https://github.com/user-attachments/assets/bba44ed0-4960-4a1d-a71b-4b543a1a856e)
 
 # Sales View
+
 ![Sales_view](https://github.com/user-attachments/assets/5a16d786-90a9-462c-afce-f4bc917915db)
 
 # Marketing View
+
 ![marketing_view](https://github.com/user-attachments/assets/2be4a699-087d-4413-bb6d-1d36e87f1ead)
 
 # Supply chain View
+
 ![supplychain_view](https://github.com/user-attachments/assets/72046177-f905-4afe-b12d-767192384e5f)
 
 # Executive View
+
 ![executive view](https://github.com/user-attachments/assets/729d62d7-191f-47b4-8ac9-8591142a40da)
+
+# Project Outcome
+This report enables data-driven decisions and answers numerous "why" questions, providing actionable insights for various scenarios.
 
 
 
