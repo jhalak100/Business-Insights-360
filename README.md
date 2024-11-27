@@ -174,10 +174,7 @@ Data modeling is a crucial step in building effective Power BI reports. It serve
 
 ### Importance of Data Modeling  
 - **Foundation for Reports**: All visuals and insights in the report are based on the data model.  
-- **Performance Impact**: A poorly structured model can slow down the report's performance and lead to inefficiencies in analysis.  
-
-### Best Practices in Data Modeling  
-Following best practices for data modeling is essential to ensure an efficient and effective model. For more information on the best practices, refer to this [blog on data modeling best practices](https://addendanalytics.com/blog/data-modelling-best-practices).  
+- **Performance Impact**: A poorly structured model can slow down the report's performance and lead to inefficiencies in analysis.   
 
 ### Data Modeling Method Used  
 In this project, we have used the **Snowflake Schema** (Snowfall data modeling method) to structure the data model. This method helps in organizing the data in a way that ensures both efficiency and scalability. 
@@ -210,29 +207,32 @@ https://github.com/user-attachments/assets/d84611a2-c2fc-45d6-a4d4-f4bc6fbecb08
 
 ![overall](https://github.com/user-attachments/assets/df21b75f-f60d-4785-b316-64aab20dc4b0)
 
-# Info Page
-
-![infopage](https://github.com/user-attachments/assets/29b25189-2b5f-4b07-b926-8955c10484cb)
-
 # Finance View
 
-![Finance_view](https://github.com/user-attachments/assets/bba44ed0-4960-4a1d-a71b-4b543a1a856e)
+![Finnace view](https://github.com/user-attachments/assets/4852c556-538a-4bec-ba2f-aa02a588f04a)
+
 
 # Sales View
+![Sales_view](https://github.com/user-attachments/assets/9f3a9d39-a49d-4123-9649-e61f1222c5d0)
 
-![Sales_view](https://github.com/user-attachments/assets/5a16d786-90a9-462c-afce-f4bc917915db)
 
 # Marketing View
 
-![marketing_view](https://github.com/user-attachments/assets/2be4a699-087d-4413-bb6d-1d36e87f1ead)
+![Marketinf view](https://github.com/user-attachments/assets/7834b637-514b-4c8a-a23e-864a361b85df)
+
 
 # Supply chain View
 
-![supplychain_view](https://github.com/user-attachments/assets/72046177-f905-4afe-b12d-767192384e5f)
+![Supply_chain view](https://github.com/user-attachments/assets/cec30fdf-27f0-4a8e-ac81-6b9fd5cfe724)
+
 
 # Executive View
 
-![executive view](https://github.com/user-attachments/assets/729d62d7-191f-47b4-8ac9-8591142a40da)
+![Excecutive_view](https://github.com/user-attachments/assets/ef84865b-ead5-4c37-bc2d-f5a39df861f9)
+
+# Info Page
+
+![infopage](https://github.com/user-attachments/assets/29b25189-2b5f-4b07-b926-8955c10484cb)
 
 # Project Outcome
 This report enables data-driven decisions and answers numerous "why" questions, providing actionable insights for various scenarios.
