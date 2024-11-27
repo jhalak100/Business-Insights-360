@@ -6,7 +6,7 @@ AtliQ Hardware has been growing quickly in recent years and has decided to use P
 
 # Explore the Live Power BI Project  
 
-Click the link below to engage with the live Power BI project and explore the interactive dashboard:  [**Live Power BI Project**](https://app.powerbi.com/view?r=eyJrIjoiYjI5ZTdhZmQtZDY4YS00YzQ0LTlkY2EtYTQ2YjFhODUzNjkxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)  
+Click the link below to engage with the live Power BI project and explore the interactive dashboard:  [**Live Power BI Project**](https://app.powerbi.com/view?r=eyJrIjoiYjI5ZTdhZmQtZDY4YS00YzQ0LTlkY2EtYTQ2YjFhODUzNjkxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 This dashboard provides a comprehensive overview and insights into the project, showcasing the power of data-driven decision-making through Power BI.  
 
@@ -18,7 +18,7 @@ This dashboard provides a comprehensive overview and insights into the project, 
 - **Excel**
 - **DAX Language**
 - **DAX Studio** (for optimizing the report)
-- **Project Charter File**
+
 
 ## Power BI Techniques Mastered  
 
