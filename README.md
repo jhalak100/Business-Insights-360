@@ -195,8 +195,6 @@ In the Home View, all the view buttons will be available. The user can navigate 
 - **Marketing View**
 - **Supply Chain View**
 - **Executive View**
-- **Products**
-- **Support**
 
 # Final Overview
 https://github.com/user-attachments/assets/d84611a2-c2fc-45d6-a4d4-f4bc6fbecb08
